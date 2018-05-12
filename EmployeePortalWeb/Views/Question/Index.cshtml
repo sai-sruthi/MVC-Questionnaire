@@ -1,0 +1,41 @@
+﻿@model System.Collections.Generic.IList<Shared.Functional.DTO.IQuestionDTO>
+@{
+    ViewBag.Title = "Questions";
+}
+
+<div id="divQuestions" style="position:relative;top:20px;">
+    @foreach (var questionDTO in Model)
+    {
+        <div question-id="@questionDTO.QuestionId" class="panel panel-default">
+            <div class="panel-body">
+                <h4 info='text'>@questionDTO.Text</h4>
+                <p info='marks'><b> Marks: </b>@questionDTO.Marks</p>
+                <a href="#questions" action='edit'>Edit</a> |
+                <a href="#questions" action='delete'>Delete</a>
+            </div>
+        </div>
+    }
+</div>
+<button id="btnCreate" type="button" class="btn btn-primary" style="margin:10px;">Add Question</button>
+
+<div id="questionModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 id="modalTitle" class="modal-title">Edit Question</h4>
+            </div>
+            <div id="questionModalBody" class="modal-body">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <input type="submit" id="btnSave" class="btn btn-primary" />
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+    }
+</div><!-- /.modal -->
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/custom/question.js"></script>
+}

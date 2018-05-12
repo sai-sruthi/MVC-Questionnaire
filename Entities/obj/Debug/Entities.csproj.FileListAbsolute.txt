@@ -1,0 +1,41 @@
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\Entities.dll.config
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\Entities.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\Entities.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.xml
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\obj\Debug\Entities.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\obj\Debug\Entities.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\Entities.dll.config
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\Entities.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\Entities.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.xml
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\obj\Debug\Entities.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Entities\obj\Debug\Entities.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\Questionnaire.mdf
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\Questionnaire_log.ldf
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\Entities.dll.config
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\Entities.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\Entities.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.xml
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\obj\Debug\Entities.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Entities\obj\Debug\Entities.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\Entities.dll.config
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\Entities.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\Entities.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.xml
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\obj\Debug\Entities.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Entities\obj\Debug\Entities.pdb

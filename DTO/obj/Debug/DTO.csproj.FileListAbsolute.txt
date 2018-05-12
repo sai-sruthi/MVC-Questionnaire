@@ -1,0 +1,28 @@
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\bin\Debug\DTO.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\bin\Debug\DTO.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\bin\Debug\Shared.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\bin\Debug\Shared.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\obj\Debug\DTO.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\obj\Debug\DTO.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\bin\Debug\DTO.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\bin\Debug\DTO.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\obj\Debug\DTO.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\DTO\obj\Debug\DTO.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\bin\Debug\DTO.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\bin\Debug\DTO.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\obj\Debug\DTO.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\DTO\obj\Debug\DTO.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\bin\Debug\DTO.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\bin\Debug\DTO.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\obj\Debug\DTO.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\obj\Debug\DTO.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

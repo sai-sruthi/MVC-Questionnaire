@@ -1,0 +1,28 @@
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.csprojResolveAssemblyReference.cache
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\bin\Debug\BusinessFacade.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessFacade\obj\Debug\BusinessFacade.pdb

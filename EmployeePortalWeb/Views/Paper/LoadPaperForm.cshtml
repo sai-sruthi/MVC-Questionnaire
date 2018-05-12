@@ -1,0 +1,31 @@
+﻿@using EmployeePortalWeb.Models;
+@model PaperVM
+
+<div class="form-horizontal">
+    @using (Ajax.BeginForm("SavePaper", "Paper", new AjaxOptions() { OnComplete = "savePaperSH" }, new { id = "formPaper" }))
+    {
+        @Html.ValidationSummary(true, "", new { @class = "alert-danger" })
+        @Html.HiddenFor(Model => Model.PaperId)
+        <div class="form-group">
+            <label for="txtPaperTitle" class="col-sm-3 control-label">Name</label>
+            <div class="col-sm-9">
+                @Html.TextBoxFor(Model => Model.Name, new { @class = "form-control", id = "txtPaperTitle" })
+                @Html.ValidationMessageFor(Model => Model.Name, "", new { @class = "alert-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="txtDescription" class="col-sm-3 control-label">Description</label>
+            <div class="col-sm-9">
+                @Html.TextAreaFor(Model => Model.Description, new { @class = "form-control", id = "txtDescription", rows = "3" })
+                @Html.ValidationMessageFor(Model => Model.Description, "", new { @class = "alert-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="txtDuration" class="col-sm-3 control-label">Duration</label>
+            <div class="col-sm-9">
+                @Html.TextBoxFor(Model => Model.Duration, new { @class = "form-control", id = "txtDuration", type="number", min="1" })
+                @Html.ValidationMessageFor(Model => Model.Duration, "", new { @class = "alert-danger" })
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,35 @@
+﻿@using EmployeePortalWeb.Models;
+@model QuestionVM
+
+<div class="form-horizontal">
+    @using (Ajax.BeginForm("SaveQuestion", "Question", new AjaxOptions() { OnComplete = "saveQuestionSH" }, new { id = "formQuestion" }))
+    {
+        @Html.ValidationSummary(true, "", new { @class = "alert-danger" })
+        @Html.HiddenFor(Model => Model.QuestionId)
+        <div class="form-group">
+            <label for="txtQuestionTitle" class="col-sm-3 control-label">Text</label>
+            <div class="col-sm-9">
+                @Html.TextAreaFor(Model => Model.Text, new { @class = "form-control", id = "txtQuestionTitle" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="txtMarks" class="col-sm-3 control-label">Marks</label>
+            <div class="col-sm-9">
+                @Html.TextBoxFor(Model => Model.Marks, new { @class = "form-control", id = "txtMarks", type = "number", min = "1" })
+                @Html.ValidationMessageFor(Model => Model.Marks, "", new { @class = "alert-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="txtQuestionPaperNo" class="col-sm-3 control-label">Question Paper No.</label>
+            <div class="col-sm-9">
+                @{
+                        PapersListModel listModel = new PapersListModel();
+                        listModel.PaperCode = PapersListModel.PaperCodeList();
+                }
+
+                @Html.DropDownListFor(Model => Model.QuestionPaperNo, new SelectList(listModel.PaperCode, "value", "text", "selectedValue"), new { @class = "form-control", id = "txtQuestionPaperNo" })
+               @* @Html.DropDownListFor(Model => Model.QuestionPaperNo, new { @class = "form-control", id = "txtQuestionPaperNo" })*@
+            </div>
+        </div>
+    }
+</div>

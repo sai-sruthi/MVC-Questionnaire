@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF457472-E959-4F91-8C89-E8EBCDF88F6A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shared</RootNamespace>
+    <AssemblyName>Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Functional\BDC\IPaperBDC.cs" />
+    <Compile Include="Functional\BDC\IQuestionBDC.cs" />
+    <Compile Include="Functional\DAC\IPaperDAC.cs" />
+    <Compile Include="Functional\DAC\IQuestionDAC.cs" />
+    <Compile Include="Functional\DTO\IPaperDTO.cs" />
+    <Compile Include="Functional\DTO\IQuestionDTO.cs" />
+    <Compile Include="Functional\Facade\IPaperFacade.cs" />
+    <Compile Include="Functional\Facade\IQuestionFacade.cs" />
+    <Compile Include="Infrastructure\BDC\BDCFactory.cs" />
+    <Compile Include="Infrastructure\BDC\BDCBase.cs" />
+    <Compile Include="Infrastructure\BDC\IBDCFactory.cs" />
+    <Compile Include="Infrastructure\BDC\IBDC.cs" />
+    <Compile Include="Infrastructure\Common\Constants\AppSettings.cs" />
+    <Compile Include="Infrastructure\Common\Factory\FactoryBase.cs" />
+    <Compile Include="Infrastructure\DAC\DACBase.cs" />
+    <Compile Include="Infrastructure\DAC\DACFactory.cs" />
+    <Compile Include="Infrastructure\DAC\IDAC.cs" />
+    <Compile Include="Infrastructure\DAC\IDACFactory.cs" />
+    <Compile Include="Infrastructure\DTO\DTOBase.cs" />
+    <Compile Include="Infrastructure\DTO\DTOFactory.cs" />
+    <Compile Include="Infrastructure\DTO\IDTO.cs" />
+    <Compile Include="Infrastructure\DTO\IDTOFactory.cs" />
+    <Compile Include="Infrastructure\Facade\FacadeBase.cs" />
+    <Compile Include="Infrastructure\Facade\FacacdeFactory.cs" />
+    <Compile Include="Infrastructure\Facade\IFacade.cs" />
+    <Compile Include="Infrastructure\Facade\IFacadeFactory.cs" />
+    <Compile Include="Infrastructure\OperationResult\OperationResult.cs" />
+    <Compile Include="Infrastructure\OperationResult\OperationResultType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Infrastructure\Common\Attributes\" />
+    <Folder Include="Infrastructure\Common\Enums\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

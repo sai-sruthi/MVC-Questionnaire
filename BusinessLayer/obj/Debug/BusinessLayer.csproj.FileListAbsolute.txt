@@ -1,0 +1,28 @@
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb

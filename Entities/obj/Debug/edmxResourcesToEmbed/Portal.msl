@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PortalModelStoreContainer" CdmEntityContainer="PortalEntities">
+    <EntitySetMapping Name="Notices">
+      <EntityTypeMapping TypeName="PortalModel.Notice">
+        <MappingFragment StoreEntitySet="Notices">
+          <ScalarProperty Name="NoticeId" ColumnName="NoticeId" />
+          <ScalarProperty Name="NoticeTitle" ColumnName="NoticeTitle" />
+          <ScalarProperty Name="NoticeDesc" ColumnName="NoticeDesc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,26 @@
+﻿@using EmployeePortalWeb.Models;
+@model PaperDetailsVM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Model.Name</h2>
+    <p>
+        @Model.Description
+    </p>
+<b>Duration of Test:</b> @Model.Duration
+
+<div id="divPaperQuestions" style="position:relative;top:20px;">
+@foreach (var question in Model.Questions)
+{
+    <div paper-id="@question.QuestionId" class="panel panel-default">
+        <div class="panel-body">
+            <p info='text'>@question.Text</p>
+            <p info='marks'><b> Marks: </b>@question.Marks</p>
+        </div>
+    </div>
+}
+</div>
+
+

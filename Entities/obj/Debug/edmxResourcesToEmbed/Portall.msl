@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PortallModelStoreContainer" CdmEntityContainer="PortallEntities">
+    <EntitySetMapping Name="Notices">
+      <EntityTypeMapping TypeName="PortallModel.Notice">
+        <MappingFragment StoreEntitySet="Notice">
+          <ScalarProperty Name="NoticeId" ColumnName="NoticeId" />
+          <ScalarProperty Name="NoticeTitle" ColumnName="NoticeTitle" />
+          <ScalarProperty Name="NoticeDesc" ColumnName="NoticeDesc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="PortallModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="LoginId" ColumnName="LoginId" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

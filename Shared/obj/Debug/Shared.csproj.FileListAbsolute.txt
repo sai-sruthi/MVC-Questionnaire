@@ -1,0 +1,19 @@
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Shared\bin\Debug\Shared.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Shared\bin\Debug\Shared.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Shared\obj\Debug\Shared.dll
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Shared\obj\Debug\Shared.pdb
+E:\Project\AG\Fresher Training\Repository\Courses\DotNet\C# - Language\Chapter 1&2\Demos\ClassDemos\EmployeePortalWeb\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Shared\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Shared\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Shared\obj\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb\EmployeePortalWeb\Shared\obj\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Shared\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Shared\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Shared\obj\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\EmployeePortalWeb - Copy\EmployeePortalWeb\Shared\obj\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Shared\bin\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Shared\bin\Debug\Shared.pdb
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Shared\obj\Debug\Shared.dll
+C:\Users\saitalluri\Desktop\Final College\EmployeePortalWeb\Shared\obj\Debug\Shared.pdb
